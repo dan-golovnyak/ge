@@ -1,0 +1,38 @@
+drupal --drupal-project-rename
+acquia_connector
+admin_menu
+advanced_help
+apachesolr
+backup_migrate
+backup_migrate_files --dev
+colorbox
+conditional_fields --dev
+context
+ctools
+date
+devel
+diff
+entity
+entitycache
+features
+features_extra
+field_collection
+google_analytics
+invite
+job_scheduler
+libraries
+link
+metatag
+nodequeue
+panels
+pathauto
+pm_existing_pages
+references
+rules
+securepages
+stringoverrides
+token
+views
+views_bulk_operations
+views_php --dev
+wysiwyg
